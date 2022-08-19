@@ -1,0 +1,28 @@
+{
+	"name": "jest-learning",
+	"version": "1.0.0",
+	"description": "Learning the basics of the jest library",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --passWithNoTests"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BrnMarq/jest-learning.git"
+	},
+	"keywords": [
+		"studying",
+		"learning",
+		"jest",
+		"testing"
+	],
+	"author": "Brian Márquez",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/BrnMarq/jest-learning/issues"
+	},
+	"homepage": "https://github.com/BrnMarq/jest-learning#readme",
+	"devDependencies": {
+		"jest": "^28.1.3"
+	}
+}
