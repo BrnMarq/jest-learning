@@ -1,35 +1,35 @@
 {
-	"name": "jest-learning",
-	"version": "1.0.0",
-	"description": "Learning the basics of the jest library",
-	"main": "index.js",
-	"scripts": {
-		"test": "jest --passWithNoTests"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/BrnMarq/jest-learning.git"
-	},
-	"keywords": [
-		"studying",
-		"learning",
-		"jest",
-		"testing"
-	],
-	"author": "Brian Márquez",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/BrnMarq/jest-learning/issues"
-	},
-	"homepage": "https://github.com/BrnMarq/jest-learning#readme",
-	"devDependencies": {
-		"eslint": "^8.0.1",
-		"eslint-config-prettier": "^8.5.0",
-		"eslint-config-standard": "^17.0.0",
-		"eslint-plugin-import": "^2.25.2",
-		"eslint-plugin-n": "^15.0.0",
-		"eslint-plugin-prettier": "^4.2.1",
-		"eslint-plugin-promise": "^6.0.0",
-		"jest": "^28.1.3"
-	}
+  "name": "jest-learning",
+  "version": "1.0.0",
+  "description": "Learning the basics of the jest library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrnMarq/jest-learning.git"
+  },
+  "keywords": [
+    "studying",
+    "learning",
+    "jest",
+    "testing"
+  ],
+  "author": "Brian Márquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrnMarq/jest-learning/issues"
+  },
+  "homepage": "https://github.com/BrnMarq/jest-learning#readme",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "jest": "^28.1.3"
+  }
 }
